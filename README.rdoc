@@ -1,0 +1,5 @@
+Devise and CanCan tutorial app
+
+by
+Michael Guse
+guse.michael@gmail.com
